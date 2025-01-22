@@ -1,0 +1,6 @@
+@STD.PL_HostAddress = http://localhost:5232
+
+GET {{STD.PL_HostAddress}}/stories/best
+Accept: application/json
+
+###
